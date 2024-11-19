@@ -1,0 +1,1 @@
+https://github.com/Liana-Yuri/rsschool-cv/blob/gh-pages/cv.md
